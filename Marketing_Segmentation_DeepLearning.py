@@ -67,7 +67,7 @@ import datetime as dt
 # e apresenta alguns valores NaN. Estes serão excluídos do modelo para não impactar
 # negativamente no treinamento da máquina
 
-dados = pd.read_csv('C:/Users/Francisco/Desktop/Projeto_iFood/ml_project1_data.csv')
+dados = pd.read_csv('C:/Users/Francisco/Desktop/marketing_data.csv')
 dados['Response'] = dados['Response'].astype(int)
 dados = dados.dropna() # Apagando linhas com valores NaN para Income.
 dados.insert(0,'year',pd.DatetimeIndex(dados['Dt_Customer']).year)
