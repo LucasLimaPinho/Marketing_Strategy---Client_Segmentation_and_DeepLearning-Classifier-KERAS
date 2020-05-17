@@ -1,5 +1,5 @@
 """
-iFOOD - Data Science Challenge
+Data Science Challenge
 
 Created on Thu May 14 07:06:12 2020
 
