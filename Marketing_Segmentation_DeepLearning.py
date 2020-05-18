@@ -9,20 +9,18 @@ Model: Deeplearning Classifier (Binary Classification)
 Main references:
     
     1. https://keras.io/ (Built on top of Tensorflow 2.0)
-    2. https://www.coursera.org/specializations/deep-learning 
-    Deeplearning Specialization ensinada por Andrew Ng - professor 
-    de Ciência da Computação em Stanford
+  
 
 Sobre o autor:
     . Nome: Lucas Lima Reis de Pinho
     . Cargo Atual: Coordenador de Engenharia na HEINEKEN 
-        com Foco em Transformação Digital. Entrei como Trainee em 2018
-    . Mestrado em Otimização Computacional (COPPE-UFRJ) - maior CRA
+        com Foco em Transformação Digital.
+    . Mestrado em Otimização Computacional (COPPE-UFRJ) - 
     . MBA em Gerenciamento de Projetos (FGV)
     . FGV Executive Big Data & Machine Learning Program
-    . Especialização em Deeplearning pela deeplearning.ai (Univ. Stanford)
+    . Especialização em Deeplearning pela deeplearning.ai 
     . LinkedIn: https://www.linkedin.com/in/lucaslimapinho/
-    . Github: https://github.com/LucasLimaPinho/Data-Science
+    . Github: https://github.com/LucasLimaPinho
         
 
 """
